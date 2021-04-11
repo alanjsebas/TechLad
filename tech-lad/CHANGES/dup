@@ -1,0 +1,120 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>TechLAD</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+
+	</head>
+	<body>
+		<!-- Load an icon library to show a hamburger menu (bars) on small screens -->
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+		<div class="topnav" id="myTopnav">
+		 <a href="#home" class="active">Home</a>
+		 <a href="#Placeholder1">Placeholder1</a>
+ 		 <a href="#Placeholder2">Placeholder2</a>
+  		<a href="javascript:void(0);" class="icon" onclick="myFunction()">
+ 		   <i class="fa fa-bars"></i>
+		  </a>
+		</div>
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Header -->
+					<header id="header">
+						<img src="images/avatar.png" width="400" height="200" alt="Logo" /></span>
+						<h1>Welcome to <strong>TechLAD</strong>, where we present to you the best highly rated products at the lowest available prices. The devices below are our most popular devices according to customer demands :<br/></h1>
+
+					</header>
+
+				<!-- Main -->
+					<section id="main">
+
+						<!-- Thumbnails -->
+							<section class="thumbnails">
+								<div>
+									<a href="images/fulls/01.jpg">
+										<img src="images/thumbs/01.jpg" alt="" />
+										<h3>Lorem ipsum dolor sit amet</h3>
+									</a>
+									<a href="images/fulls/02.jpg">
+										<img src="images/thumbs/02.jpg" alt="" />
+										<h3>Lorem ipsum dolor sit amet</h3>
+									</a>
+								</div>
+								<div>
+									<a href="images/fulls/03.jpg">
+										<img src="images/thumbs/03.jpg" alt="" />
+										<h3>Lorem ipsum dolor sit amet</h3>
+									</a>
+									<a href="images/fulls/04.jpg">
+										<img src="images/thumbs/04.jpg" alt="" />
+										<h3>Lorem ipsum dolor sit amet</h3>
+									</a>
+									<a href="images/fulls/05.jpg">
+										<img src="images/thumbs/05.jpg" alt="" />
+										<h3>Lorem ipsum dolor sit amet</h3>
+									</a>
+								</div>
+								<div>
+									<a href="images/fulls/06.jpg">
+										<img src="images/thumbs/06.jpg" alt="" />
+										<h3>ASUS ROG Strix Scar 17 (2020) Gaming Laptop</h3>
+									</a>
+									<a href="images/fulls/07.jpg">
+										<img src="images/thumbs/07.jpg" alt="" />
+										<h3>Sony a9 II Mirrorless Camera</h3>
+									</a>
+								</div>
+								<div>
+									<a href="images/fulls/08.jpg">
+										<img src="images/thumbs/06.jpg" alt="" />
+										<h3>ASUS ROG Strix Scar 17 (2020) Gaming Laptop</h3>
+									</a>
+									<a href="images/fulls/09.jpg">
+										<img src="images/thumbs/07.jpg" alt="" />
+										<h3>Sony a9 II Mirrorless Camera</h3>
+									</a>
+								</div>
+								<div>
+									<a href="images/fulls/10.jpg">
+										<img src="images/thumbs/06.jpg" alt="" />
+										<h3>ASUS ROG Strix Scar 17 (2020) Gaming Laptop</h3>
+									</a>
+									<a href="images/fulls/11.jpg">
+										<img src="images/thumbs/07.jpg" alt="" />
+										<h3>Sony a9 II Mirrorless Camera</h3>
+									</a>
+								</div>
+								<div>
+									<a href="images/fulls/10.jpg">
+										<img src="images/thumbs/06.jpg" alt="" />
+										<h3>ASUS ROG Strix Scar 17 (2020) Gaming Laptop</h3>
+									</a>
+									<a href="images/fulls/11.jpg">
+										<img src="images/thumbs/07.jpg" alt="" />
+										<h3>Sony a9 II Mirrorless Camera</h3>
+									</a>
+								</div>
+							</section>
+
+					</section>
+					<div class="powr-reviews" id="c9ea2428_1597203403"></div><script src="https://www.powr.io/powr.js?platform=html"></script>
+
+				<!-- Footer -->
+					<footer id="footer">
+						<p style="color:black;"> &copy; Project By Alan, Shafi and</p>
+					</footer>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.poptrox.min.js"></script>
+			<script src="assets/js/skel.min.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
